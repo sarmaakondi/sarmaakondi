@@ -3,6 +3,11 @@
 
 - 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
 
+- 🚀 Recent projects (Initial load might be slow 😅)
+    - [Expense Tracker](https://expense-tracker-c7dg.onrender.com)
+    - [World of Words](https://world-of-words-client.onrender.com)
+    - [Echo](https://echo-client-gry3.onrender.com)
+
 - 📫 How to reach me **sarmaakondivnm@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wLqOgMxjb0snuY9nNVB8jaHqCyHgLLTO/view?usp=sharing)
