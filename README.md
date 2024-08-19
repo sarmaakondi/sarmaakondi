@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **sarmaakondivnm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wLqOgMxjb0snuY9nNVB8jaHqCyHgLLTO/view?usp=sharing](https://drive.google.com/file/d/1wLqOgMxjb0snuY9nNVB8jaHqCyHgLLTO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wLqOgMxjb0snuY9nNVB8jaHqCyHgLLTO/view?usp=sharing)
 
-- ⚡ Fun fact **I binge watched anime for 30+ hours!**
+- ⚡ Fun fact **I binge watched anime for 30+ hours!**😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
