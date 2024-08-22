@@ -4,9 +4,21 @@
 - 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
 
 - 🚀 Recent projects (Initial load might be slow 😅)
+    - [My Portfolio](https://sarmaakondi.github.io/portfolio/all)
+        - My portfolio site! (finally)
+        - Tech stack: React, CSS, Framer Motion, React UseAnimations
     - [Expense Tracker](https://expense-tracker-c7dg.onrender.com)
+        - A simple expense tracker with eye candy visuals and great insights.
+        - Tech stack: HTML, CSS, JavaScript, Node.js, EJS, MongoDB
     - [World of Words](https://world-of-words-client.onrender.com)
+        -  A react web app to learn new english words (total of 13000 words!). It has the capability of read aloud and provide pronunciation feedback in real-time.
+        -  Tech stack: React, Node.js, CSS, Framer Motion, MongoDB
     - [Echo](https://echo-client-gry3.onrender.com)
+        - My own distilled version of social media (text based) to share your thoughts.
+        - Tech stack: React, CSS, Django, PostgreSQL
+    - [Steampocalypse](https://sarmaakondi.github.io/project-1-steampocalypse/)
+        - A simple steampunk theme based shooter game.
+        - Tech stack: HTML Canvas, CSS, JavaScript
 
 - 📫 How to reach me **sarmaakondivnm@gmail.com**
 
