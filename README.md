@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarma</h1>
 <h3 align="center">I :heart: code</h3>
 
-- 🔭 I’m currently working on [KnowNative](https://github.com/AbigailDawson/knownative)
+- 🔭 I am currently working as a freelance Full Stack Developer while actively expanding my technical skill set.
 
 - 🚀 Recent projects (Initial load might be slow 😅)
     - [My Portfolio](https://sarmaakondi.github.io/portfolio/all)
